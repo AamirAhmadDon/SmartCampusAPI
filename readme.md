@@ -35,7 +35,7 @@ mvn clean install
 ### 3. Run the Server
 
 ```
-mvn exec:java
+mvn exec:java -Dexec.mainClass="com.smartcampus.Main"
 ```
 
 ### 4. Access the API
