@@ -16,7 +16,7 @@ This project implements a RESTful API for managing a Smart Campus system. The AP
 ### Steps
 
 ```bash
-cd C:\Users\Aamir\Desktop\CSA\SmartCampusAPI\SmartCampusAPI
+clone this repo in your directory
 mvn clean install
 mvn exec:java -Dexec.mainClass="com.smartcampus.Main"
 ```
